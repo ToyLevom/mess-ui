@@ -31,6 +31,7 @@ export default {
 <style lang="scss" scoped>
 .btn {
   position: relative;
+  z-index: 2;
   font-size: 1rem;
 
   display: inline-block;

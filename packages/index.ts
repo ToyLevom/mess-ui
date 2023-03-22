@@ -1,4 +1,5 @@
 import { App } from "vue";
+import './theme/color.variables.css'
 import components from "./components";
 
 // 导出所有组件，用于组件单独引用

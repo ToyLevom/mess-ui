@@ -2,7 +2,8 @@
  * 导出所有组件
  */
 import Button from "./button";
+import CodeDropBg from "./CodeDropBg";
 
-export default [Button];
+export default [Button, CodeDropBg];
 
-export { Button };
+export { Button, CodeDropBg };

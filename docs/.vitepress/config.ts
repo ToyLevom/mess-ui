@@ -22,8 +22,17 @@ export default defineConfig({
       },
     ],
 
+    outline: [2, 3],
+    outlineTitle: "此页",
+
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/ToyLevom/mess-ui" },
     ],
+
+    footer: {
+      message: "",
+      copyright:
+        'Copyright © 2016 - present | 815280716@qq.com | <a href="https://beian.miit.gov.cn/" target="_blank">津ICP备19001218号-1</a>',
+    },
   },
 });
