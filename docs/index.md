@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /markdown-examples
+      link: /mds/install
     - theme: alt
       text: 组件参考
-      link: /api-examples
+      link: /mds/comps
 
 features:
   - title: 易用
