@@ -4,22 +4,21 @@ layout: home
 
 hero:
   name: "MessUI文档"
-  text: "A blog components lib."
-  tagline: My great project tagline
+  text: "用于博客构建的UI库"
+  tagline: 包含一些自定义的效果和常用组件
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: 开始
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: 组件参考
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 易用
+    details: 快速构建
+  - title: 丰富
+    details: 功能丰富、效果多样
+  - title: 组件化
+    details: 组件化，想用哪个用哪个
 ---
-
